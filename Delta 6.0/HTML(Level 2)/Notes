@@ -1,0 +1,15 @@
+HTML (Level -2)
+
+Inline vs Block
+
+Block Elements                                                Inline Elements
+Takes up the full-width available(whole block)                Takes up only necessary width
+Start from new line                                           Don't start from new line
+
+Am I Inline or not ?
+Heading ELement : Block Elements
+Paragraph Element : Block
+Anchor Tag : Inline
+Image ELement : Inline
+
+DIV ELement
