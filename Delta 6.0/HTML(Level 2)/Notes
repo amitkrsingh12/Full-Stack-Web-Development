@@ -13,11 +13,18 @@ Anchor Tag : Inline
 Image ELement : Inline
 
 DIV ELement
-
+<div span style="background-color: red;>
 Div is a container used to hold other HTML elements or groups together.
 It is a *Block Element*
 also known as content division element.
 
 SPAN ELement
+<span>
 Span is also a generic container used to hold other HTML elements or group elements together.
 It is an inline element.
+
+
+HR TAG
+<hr>
+Horizontal rule element.
+Breaks the line and print a line(divider)
