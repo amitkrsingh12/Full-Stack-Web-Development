@@ -1,8 +1,24 @@
+HTML : (HyperText Markup Language) HTML is the standard markup language for Web pages.
+
 Heading Tag : <h1> <h2> <h3> <h4> <h5> <h6>. As we go from 1-6 the size decreases.
+
 <hr> tag : The <hr> tag defines a thematic break in an HTML page (e.g. a shift of topic).
 
 Anchor Tag : The <a> tag defines a hyperlink, which is used to link from one page to another.
 <a href = "Link of website"></a>
 
-<p> Paragraph Tag
-<img src="image location" alt="name of image" height="300px" width="300px">
+Paragraph Tag: <p> 
+
+Image Tag : <img src="image location" alt="name of image" height="300px" width="300px">
+It doesn not require a closing tag.
+
+HTML is  not case sensitive.
+
+Comment in HTML : <!--"Here you can give comments"-->
+
+Lists are of two Types:
+    Unordered List(ul) :<ul></ul>
+    Ordered List (ol) :<ol><ol>
+    List is denoted by :<li></li>
+
+
