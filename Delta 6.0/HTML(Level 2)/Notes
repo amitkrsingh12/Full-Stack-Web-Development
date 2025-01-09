@@ -12,6 +12,12 @@ Paragraph Element : Block
 Anchor Tag : Inline
 Image ELement : Inline
 
-DIV ELement : Div is a container used to hold other HTML elements or groups together.
+DIV ELement
+
+Div is a container used to hold other HTML elements or groups together.
 It is a *Block Element*
 also known as content division element.
+
+SPAN ELement
+Span is also a generic container used to hold other HTML elements or group elements together.
+It is an inline element.
