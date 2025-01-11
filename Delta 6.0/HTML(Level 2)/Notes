@@ -13,7 +13,7 @@ Anchor Tag : Inline
 Image ELement : Inline
 
 DIV ELement
-<div span style="background-color: red;>
+<div span style="background-color: red;">
 Div is a container used to hold other HTML elements or groups together.
 It is a *Block Element*
 also known as content division element.
@@ -28,3 +28,19 @@ HR TAG
 <hr>
 Horizontal rule element.
 Breaks the line and print a line(divider)
+
+SUP TAG
+<sup>
+
+SUB TAG
+<sub>
+
+SEMANTIC Markup
+It is the markup that relates to the meaning of content
+Menaningful /Layout -> structure
+SEO Friendly(Search Engine Optimization)
+Readability + screen readers. (user experience improves).
+
+Two Types:
+Semantic : <h1> , <p>
+Non-Semantic : <div> , <span>
