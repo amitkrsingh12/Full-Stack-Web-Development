@@ -95,3 +95,20 @@ Character	Entity	        Note
 
 EMMET
 visit emmet.io
+
+Understanding HTML 5
+The term HTML 5 is essentially a buzzword that refers to 
+
+HTML standard(living standard) is a document thatb tells to the browser how HTML should work.
+A Beginners Giude to HTML5.(search the web).
+
+Video Tag
+
+Attributes for <video> Tag
+src: Specifies the path to the video file.
+controls: Adds video controls, like play, pause, and volume.
+autoplay: Automatically starts playing the video when the page loads.
+loop: Repeats the video once it ends.
+muted: Mutes the video by default.
+poster: Specifies an image to be displayed before the video starts playing.
+width and height: Specifies the dimensions of the video.
