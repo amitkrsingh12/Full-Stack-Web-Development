@@ -44,3 +44,54 @@ Readability + screen readers. (user experience improves).
 Two Types:
 Semantic : <h1> , <p>
 Non-Semantic : <div> , <span>
+
+SEMANTIC TAGS
+
+Header 
+<header>
+
+Main
+<main>
+
+Footer
+<footer>
+
+Nav Tag 
+<nav>
+Used for Navigation
+
+Article Tag
+<action></action>
+
+Section Tag 
+<section></section>
+Too group together related content.
+Same as dim and span
+
+Aside Tag
+<aside></aside>
+Related Links(indirected links)
+For eg : Avengers Movie Character is Ironman(Robert D. Junior)
+He has done another movie Sherlock Holmes, so we can publish sherlock holmes movie in Avengers Wikipedia as more movies by the actor.
+
+Apply Semantic Markup to Your Profile :
+Header
+Section
+Footer
+File Info : HTML(Level 2) ->Portfolio.html
+
+HTML Entities
+
+• Html entity is a peice of text("String) that begins with ampresend(&) and ends with a semi colon(;).
+• used to display reserved characters (which would otherwise be interpreted as HTML code), and invisible characters (like non-breaking spaces).
+• can also use in place of characters that are difficult to type with a standard keyboard.
+• browser interprets them & renders correct character.
+
+Character	Entity	        Note
+&	        &amp;	    Interpreted as the beginning of an entity or character reference.
+<	        &lt;	    Interpreted as the beginning of a tag.
+>	        &gt;	    Interpreted as the ending of a tag.
+"	        &quot;	    Interpreted as the beginning and end of an attribute's value.
+
+EMMET
+visit emmet.io
