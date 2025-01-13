@@ -1,3 +1,8 @@
 TABLES
 
 Tables are used to represent real life table data.
+Table Header -> main content(e.g. Name, Roll No.)
+To represent data there are three types of Tags:
+<tr> used to display table row.
+<td> used to display table data.
+<th> used to display table header.
