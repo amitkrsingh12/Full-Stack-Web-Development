@@ -6,3 +6,14 @@ To represent data there are three types of Tags:
 <tr> used to display table row.
 <td> used to display table data.
 <th> used to display table header.
+
+**SEMANTIC**
+
+<thread> to wrap table header
+<tbody> to wrap table body
+<tfoot> to wrap table footer
+
+**Colspan and Rowspan Attributes**
+
+<th Colspan="2"> price </th>
+<th rowspan="2"> Item </th>
