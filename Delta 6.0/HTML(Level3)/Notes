@@ -17,3 +17,35 @@ To represent data there are three types of Tags:
 
 <th Colspan="2"> price </th>
 <th rowspan="2"> Item </th>
+
+**Forms**
+<forms>
+    content
+</forms>
+
+< form action="/action.php" >
+< form action="/action" >
+
+**Form Elements**
+Input
+• used to create multiple form controls
+• there are multiple types of inputs that can be created using type attribute
+
+type attribute
+<input>
+<input type= "text">
+<input type= "password">
+<input type= "number">
+‹input type= "time">
+<input type="color">
+
+*Placeholder Attribute*         (Sub heading of Form)
+
+<input type="text" placeholder="Enter Name">
+
+*LABEL*
+• Label element represents a caption for an item in a user interface
+<label >
+Enter your username :
+<input type="text" placeholder= "username">
+</label>
