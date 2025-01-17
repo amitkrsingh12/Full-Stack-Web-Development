@@ -39,7 +39,7 @@ type attribute
 ‹input type= "time">
 <input type="color">
 
-*Placeholder Attribute*         (Sub heading of Form)
+**Placeholder Attribute**         (Sub heading of Form)
 
 <input type="text" placeholder="Enter Name">
 
@@ -49,3 +49,10 @@ type attribute
 Enter your username :
 <input type="text" placeholder= "username">
 </label>
+
+Label Classical Approach
+<label for="username"> Enter your username : </label>
+<input type="text" id="username" placeholder="username">
+id is a unique name.
+
+**Button Element**
