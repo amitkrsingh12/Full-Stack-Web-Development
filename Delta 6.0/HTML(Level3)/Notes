@@ -56,3 +56,24 @@ Label Classical Approach
 id is a unique name.
 
 **Button Element**
+<button>SUbmit </button>
+
+type attribute
+<button type="submit"> submit </button>
+<button type="button"> do something </button>
+<button type="reset"> do something </button>
+
+Button using input
+<input type="submit" >
+‹input type= "submit" value="click me">
+
+**NAME Attribute**
+
+Name of the form control. Submitted with the form as part of a namelvalue pair.
+
+<input type="text" placeholder= "enter name" id="username" name="username"/>
+
+**CHECKBOX**
+
+<input type= "checkbox" name="age" id="age" checked />
+<label for="age"> I am 18+ </label>
